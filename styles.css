@@ -1,0 +1,108 @@
+
+body{
+    background: #E5E5E5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ellipse{
+
+}
+.wrapper{
+ position: relative;
+ width: 375px;
+ height: 900px;   
+ background: #EEEEEE;
+ text-align: center;
+ margin: auto;
+}
+.top{
+    position: absolute;
+    width: 375px;
+    height: 297px;
+    left: 0px;
+    top: 0px;
+    background: #7C74FD; 
+}
+.title{
+    color: #E5E5E5;
+}
+.profile-pic{
+position: absolute;
+width: 100px;
+height: 100px;
+left: 134px;
+top: 139px;
+}
+.welcome-msg{
+position: absolute;
+height: 36px;
+left: 95px;
+top: 240px;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 36px;
+color: #FFFFFF;
+}
+.section{
+
+}
+.right-text{
+position: absolute;
+width: 121px;
+height: 23px;
+left: 228px;
+top: 327px;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+color: #000000;
+
+}
+.clock-logo{
+position: absolute;
+left: 135px;
+top: 361px;
+background-color:#EEEEEE ;
+}
+.left-text{
+    position: absolute;
+    left: 26px;
+    top: 500px; 
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 22px; 
+    color: #000000; 
+}
+.task-container{
+position: absolute;
+width: 324px;
+height: 300px;
+left: 25px;
+top: 543px;
+background: #FFFFFF;
+border-radius: 10px;
+}
+.task-container h4{
+position: absolute;
+left: 10px;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 22px;
+color: #000000;
+}
+.addBtn{
+position: absolute;
+left: 280px;
+}
+.tasks {
+   position: absolute;
+   text-align: left;
+   top: 20px;
+   left: 10px;
+}
+
+/* @media only screen and (min-device-width) */
